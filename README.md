@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Sengsith/3-column-card)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://sengsith-3-column-card.netlify.app)
 
 ## My process
 
@@ -56,6 +56,7 @@ But, there would be empty whitespace under my grid which comes from the main tag
     justify-content: center;
   }
 }
+```
 
 ### Built with
 
